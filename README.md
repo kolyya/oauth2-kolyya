@@ -29,7 +29,7 @@ Add to file `composer.json`:
   "autoload": {
     "psr-4": {
       //...
-      "Kolyya\\OAuth2Client\\": "Kolyya\\oauth2-kolyya"
+      "Kolyya\\OAuth2Client\\": "Kolyya\\oauth2-kolyya\\src"
     }
   },
 }
