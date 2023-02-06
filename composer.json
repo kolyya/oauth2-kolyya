@@ -1,0 +1,15 @@
+{
+  "name": "kolyya/oauth2-kolyya",
+  "description": "Sign in with Kolyya OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
+  "license": "MIT",
+  "require": {
+    "league/oauth2-client": "^2.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Kolyya\\OAuth2Client\\": "src/"
+    }
+  }
+}
